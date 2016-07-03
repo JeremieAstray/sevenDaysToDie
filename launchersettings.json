@@ -1,0 +1,9 @@
+{
+  "Use32BitEngine" : false,
+  "ShowLauncher" : false,
+  "DefaultRunConfig" : {
+    "ShowScreenSelector" : false,
+    "UseEAC" : true,
+    "AdditionalParameters" : ""
+  }
+}
