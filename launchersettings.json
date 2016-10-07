@@ -4,6 +4,9 @@
   "DefaultRunConfig" : {
     "ShowScreenSelector" : false,
     "UseEAC" : true,
-    "AdditionalParameters" : ""
+    "AdditionalParameters" : "",
+    "UseGLCore" : false,
+    "UseNativeInput" : false,
+    "DisableUNET" : false
   }
 }
